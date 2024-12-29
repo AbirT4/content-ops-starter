@@ -4,14 +4,24 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: MD. RABIUL ALAM
+      color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Graphic Designer
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Hi, I’m **Md. Rabiul Alam**, a graphic designer who transforms ideas into
+      stunning visuals. With a passion for design and a knack for creative
+      problem-solving, I craft visuals that leave a lasting impression.
+
+
+      From sleek logos to scroll-stopping social media content, I specialize in
+      designs that not only look great but also communicate effectively. I’ve
+      built my skills to deliver professional, innovative, and impactful work.
+
+
+      I love collaborating with local clients, bringing their visions to life
+      with a mix of creativity, precision, and strategic thinking. Let’s turn
+      your ideas into designs that stand out and tell your story.
     actions:
       - label: Get started
         altText: ''
@@ -24,7 +34,8 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: >-
+          /https://youtube.com/playlist?list=PL1Q9DWAYoDEAqcBQVhksMhkcA00lvULnL&si=-bbyplN5zAdazF8A
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -37,7 +48,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: introduce
       color: text-primary
       type: Badge
     elementId: ''
@@ -435,7 +446,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +476,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +536,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +566,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +661,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

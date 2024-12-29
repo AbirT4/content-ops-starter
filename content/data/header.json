@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/icon2.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Home",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Review",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -37,7 +39,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "About",
             "altText": "Dropdown",
             "links": [
                 {
@@ -71,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
@@ -80,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Contact",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
