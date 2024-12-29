@@ -9,9 +9,19 @@ sections:
       type: TitleBlock
     subtitle: Graphic Designer
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Hi, I’m **Md. Rabiul Alam**, a graphic designer who transforms ideas into
+      stunning visuals. With a passion for design and a knack for creative
+      problem-solving, I craft visuals that leave a lasting impression.
+
+
+      From sleek logos to scroll-stopping social media content, I specialize in
+      designs that not only look great but also communicate effectively. I’ve
+      built my skills to deliver professional, innovative, and impactful work.
+
+
+      I love collaborating with local clients, bringing their visions to life
+      with a mix of creativity, precision, and strategic thinking. Let’s turn
+      your ideas into designs that stand out and tell your story.
     actions:
       - label: Get started
         altText: ''
