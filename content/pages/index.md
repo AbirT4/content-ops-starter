@@ -70,7 +70,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "4.9 \U0001F31F Review On Fiverr"
+    subtitle: 4.9 ★ Review On Fiverr
     items:
       - type: FeaturedItem
         title: 500k
