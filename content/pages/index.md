@@ -43,7 +43,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/465547884_1104854174498708_11385.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
