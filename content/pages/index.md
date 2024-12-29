@@ -34,7 +34,8 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: >-
+          /https://youtube.com/playlist?list=PL1Q9DWAYoDEAqcBQVhksMhkcA00lvULnL&si=-bbyplN5zAdazF8A
         showIcon: true
         icon: arrowRight
         iconPosition: right
